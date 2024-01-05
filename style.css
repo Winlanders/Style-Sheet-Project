@@ -1,0 +1,178 @@
+* {
+    font-family: Lato, sans-serif
+}
+
+h1 {
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h2 {
+    position: relative;
+    margin: auto;
+}
+
+.darkblue, .blue, .lightblue, .lighterblue, .lightestblue{
+    width: 100px;
+    height: 200px;
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+}
+
+.darkblue:hover, .blue:hover, .lightblue:hover, .lighterblue:hover, .lightestblue:hover{
+    transition: box-shadow .5s linear;
+    box-shadow: 8px 10px 15px .2px black;
+}
+
+.darkblue {
+    background-color: #304674;
+}
+
+.blue {
+    background-color: #98bad5;
+}
+
+.lightblue {
+    background-color: #b2cbde;
+}
+
+.lighterblue {
+    background-color: #c6d3e3;
+}
+
+.lightestblue {
+    background-color: #d8e1e8;
+}
+
+#box1 {
+    border: solid 1px black;
+    margin-right: 350px;
+}
+
+#color-title {
+    margin-left: 86%;
+    border: dashed 2px red;
+}
+
+h3 {
+    position: relative;
+    margin: auto;
+    width: 30px;
+    display: inline-block;
+    margin-right: 65px;
+    margin-left: 26px;
+}
+
+#darkblue, #blue, #lightblue, #lighterblue, #lightestblue {
+    position: relative;
+    margin: auto;
+    width: 20px;
+    padding-right: 30px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 26px;
+    font-size: 15px;
+}
+
+div #colornames {
+    background-color: black;
+    width: 100px;
+    height: 200px;
+    position: relative;
+    margin: 5px;
+    display: inline-block;
+}
+
+#darkblue {
+    color: #304674;
+}
+
+#blue {
+    color: #98bad5;
+}
+
+#lightblue {
+    color: #b2cbde;
+}
+
+#lighterblue {
+    color: #c6d3e3;
+}
+
+#lightestblue {
+    color: #d8e1e8;
+}
+
+#font-section-border {
+    margin-top: 30px;
+    width: 610px;
+    position: relative;
+    border: solid 1px black;
+}
+
+.times {
+    position: relative;
+    width: 400px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ariel {
+    position: relative;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lato {
+    position: relative;
+    width: 400px;
+    font-family: Lato, sans-serif;
+}
+
+#fonts {
+    margin-left: 40%;
+    border: dashed 2px red;
+}
+
+#page-element-section {
+    margin-top: 30px;
+    width: 610px;
+    position: relative;
+    border: solid 1px black;
+    height: 400px;
+    
+}
+
+.h1 {
+    position: relative;
+    width: 400px;
+    font-size: 25px;
+    margin-top: 20px;
+    float: left;
+    margin-left: 10px;
+}
+
+.h2 {
+    position: relative;
+    width: 400px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+    float: left;
+}
+
+.h3 {
+    position: relative;
+    width: 400px;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 10px;
+    float: left;
+}
+
+#momothecat {
+    margin-left: 50%;
+    border: dashed 2px red;
+    position: absolute;
+}
